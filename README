@@ -1,0 +1,3 @@
+Script para exportação automatica do arquivo txt ou xml das notas fiscais do openerp
+
+Leitura do retorno da comunicação com o sefaz e atualização do status da nfe no sistema. 
